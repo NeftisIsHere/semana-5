@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: rgb(187, 250, 229);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+section a{
+    font-size: 2em;
+}
